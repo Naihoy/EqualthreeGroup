@@ -1,0 +1,20 @@
+body{background-color:#a77ca8}
+hr{color: papayawhip;
+    border-style: none;
+    border-top-style:dotted ;
+    border-width: 7px;
+    width: 30%;
+    }
+h2{color: papayawhip;}
+h1{color: mistyrose;
+    font-size:2cm;
+}
+p{color:#2b2727 ;}/*lolita*/
+.tw {background-color: #ffc7c7;}
+.tw2 {background-color: #f7b7b7;
+border: dotted;
+border-width: 6px;
+color: #FF9999;
+}
+#con {background-color: #f7b7b7;}
+#pp {color:#2b2727 ;}
